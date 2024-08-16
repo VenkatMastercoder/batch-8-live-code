@@ -1,0 +1,13 @@
+
+.heading {
+  color: rgb(208, 6, 6);
+  text-align: start;
+  font-style: italic;
+}
+
+.paragraph {
+ font-family: "Poppins", sans-serif;
+ font-size: 1em;
+ font-weight: 900;
+ text-decoration: underline;
+}
