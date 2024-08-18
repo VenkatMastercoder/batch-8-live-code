@@ -1,0 +1,26 @@
+.para {
+  color: red;
+
+  background-color: yellow;
+  background-image: url("https://ik.imagekit.io/4z8covdo9/MERN%20BATCH%208/car.jpg");
+  height: 500px;
+
+  background-repeat: no-repeat;
+  background-size: contain;
+  /* opacity: 1; */
+}
+
+.new-style {
+  color: yellow;
+  font-size: 15px;
+}
+
+.style-span {
+  color: red;
+}
+
+.box-model {
+  background-color: aqua;
+  width: 100vw;
+  height: 100vh;
+}
